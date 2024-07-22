@@ -3,7 +3,7 @@ return {
   dependencies = { "nvim-lua/plenary.nvim" },
   keys = {
     {
-      "<leader>cda",
+      "<C-c>da",
       "<cmd>:CondaActivate<cr>",
       desc = "Conda Activate",
     },
